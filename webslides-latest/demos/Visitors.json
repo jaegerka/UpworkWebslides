@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2020-01-01",
+    "device_count": "38"
+  },
+  {
+    "date": "2019-12-31",
+    "device_count": "735"
+  },
+  {
+    "date": "2019-12-30",
+    "device_count": "755"
+  },
+  {
+    "date": "2019-12-29",
+    "device_count": "775"
+  },
+  {
+    "date": "2019-12-28",
+    "device_count": "820"
+  },
+  {
+    "date": "2019-12-27",
+    "device_count": "873"
+  },
+  {
+    "date": "2019-12-26",
+    "device_count": "604"
+  },
+  {
+    "date": "2019-12-25",
+    "device_count": "312"
+  },
+  {
+    "date": "2019-12-24",
+    "device_count": "476"
+  },
+  {
+    "date": "2019-12-23",
+    "device_count": "682"
+  },
+  {
+    "date": "2019-12-22",
+    "device_count": "323"
+  },
+  {
+    "date": "2019-12-21",
+    "device_count": "403"
+  },
+  {
+    "date": "2019-12-20",
+    "device_count": "208"
+  },
+  {
+    "date": "2019-12-19",
+    "device_count": "167"
+  },
+  {
+    "date": "2019-12-18",
+    "device_count": "149"
+  },
+  {
+    "date": "2019-12-17",
+    "device_count": "142"
+  },
+  {
+    "date": "2019-12-16",
+    "device_count": "147"
+  },
+  {
+    "date": "2019-12-15",
+    "device_count": "259"
+  },
+  {
+    "date": "2019-12-14",
+    "device_count": "372"
+  },
+  {
+    "date": "2019-12-13",
+    "device_count": "249"
+  },
+  {
+    "date": "2019-12-12",
+    "device_count": "177"
+  },
+  {
+    "date": "2019-12-11",
+    "device_count": "158"
+  },
+  {
+    "date": "2019-12-10",
+    "device_count": "171"
+  },
+  {
+    "date": "2019-12-09",
+    "device_count": "170"
+  },
+  {
+    "date": "2019-12-08",
+    "device_count": "245"
+  },
+  {
+    "date": "2019-12-07",
+    "device_count": "349"
+  },
+  {
+    "date": "2019-12-06",
+    "device_count": "201"
+  },
+  {
+    "date": "2019-12-05",
+    "device_count": "178"
+  },
+  {
+    "date": "2019-12-04",
+    "device_count": "173"
+  },
+  {
+    "date": "2019-12-03",
+    "device_count": "186"
+  },
+  {
+    "date": "2019-12-02",
+    "device_count": "224"
+  },
+  {
+    "date": "2019-12-01",
+    "device_count": "277"
+  },
+  {
+    "date": "2019-11-30",
+    "device_count": "336"
+  },
+  {
+    "date": "2019-11-29",
+    "device_count": "343"
+  },
+  {
+    "date": "2019-11-28",
+    "device_count": "286"
+  },
+  {
+    "date": "2019-11-27",
+    "device_count": "231"
+  },
+  {
+    "date": "2019-11-26",
+    "device_count": "184"
+  },
+  {
+    "date": "2019-11-25",
+    "device_count": "200"
+  },
+  {
+    "date": "2019-11-24",
+    "device_count": "302"
+  },
+  {
+    "date": "2019-11-23",
+    "device_count": "383"
+  },
+  {
+    "date": "2019-11-22",
+    "device_count": "285"
+  },
+  {
+    "date": "2019-11-21",
+    "device_count": "220"
+  },
+  {
+    "date": "2019-11-20",
+    "device_count": "172"
+  },
+  {
+    "date": "2019-11-19",
+    "device_count": "199"
+  },
+  {
+    "date": "2019-11-18",
+    "device_count": "179"
+  },
+  {
+    "date": "2019-11-17",
+    "device_count": "268"
+  },
+  {
+    "date": "2019-11-16",
+    "device_count": "354"
+  },
+  {
+    "date": "2019-11-15",
+    "device_count": "242"
+  },
+  {
+    "date": "2019-11-14",
+    "device_count": "213"
+  },
+  {
+    "date": "2019-11-13",
+    "device_count": "156"
+  },
+  {
+    "date": "2019-11-12",
+    "device_count": "185"
+  },
+  {
+    "date": "2019-11-11",
+    "device_count": "201"
+  },
+  {
+    "date": "2019-11-10",
+    "device_count": "398"
+  },
+  {
+    "date": "2019-11-09",
+    "device_count": "428"
+  },
+  {
+    "date": "2019-11-08",
+    "device_count": "285"
+  },
+  {
+    "date": "2019-11-07",
+    "device_count": "235"
+  },
+  {
+    "date": "2019-11-06",
+    "device_count": "247"
+  },
+  {
+    "date": "2019-11-05",
+    "device_count": "181"
+  },
+  {
+    "date": "2019-11-04",
+    "device_count": "199"
+  },
+  {
+    "date": "2019-11-03",
+    "device_count": "283"
+  },
+  {
+    "date": "2019-11-02",
+    "device_count": "428"
+  },
+  {
+    "date": "2019-11-01",
+    "device_count": "385"
+  },
+  {
+    "date": "2019-10-31",
+    "device_count": "285"
+  },
+  {
+    "date": "2019-10-30",
+    "device_count": "229"
+  },
+  {
+    "date": "2019-10-29",
+    "device_count": "236"
+  },
+  {
+    "date": "2019-10-28",
+    "device_count": "227"
+  },
+  {
+    "date": "2019-10-27",
+    "device_count": "321"
+  },
+  {
+    "date": "2019-10-26",
+    "device_count": "383"
+  },
+  {
+    "date": "2019-10-25",
+    "device_count": "262"
+  },
+  {
+    "date": "2019-10-24",
+    "device_count": "300"
+  },
+  {
+    "date": "2019-10-23",
+    "device_count": "260"
+  },
+  {
+    "date": "2019-10-22",
+    "device_count": "254"
+  },
+  {
+    "date": "2019-10-21",
+    "device_count": "311"
+  },
+  {
+    "date": "2019-10-20",
+    "device_count": "319"
+  },
+  {
+    "date": "2019-10-19",
+    "device_count": "383"
+  },
+  {
+    "date": "2019-10-18",
+    "device_count": "343"
+  },
+  {
+    "date": "2019-10-17",
+    "device_count": "312"
+  },
+  {
+    "date": "2019-10-16",
+    "device_count": "285"
+  },
+  {
+    "date": "2019-10-15",
+    "device_count": "253"
+  },
+  {
+    "date": "2019-10-14",
+    "device_count": "260"
+  },
+  {
+    "date": "2019-10-13",
+    "device_count": "330"
+  },
+  {
+    "date": "2019-10-12",
+    "device_count": "437"
+  },
+  {
+    "date": "2019-10-11",
+    "device_count": "330"
+  },
+  {
+    "date": "2019-10-10",
+    "device_count": "300"
+  },
+  {
+    "date": "2019-10-09",
+    "device_count": "266"
+  },
+  {
+    "date": "2019-10-08",
+    "device_count": "257"
+  },
+  {
+    "date": "2019-10-07",
+    "device_count": "225"
+  },
+  {
+    "date": "2019-10-06",
+    "device_count": "303"
+  },
+  {
+    "date": "2019-10-05",
+    "device_count": "455"
+  },
+  {
+    "date": "2019-10-04",
+    "device_count": "355"
+  }
+]
