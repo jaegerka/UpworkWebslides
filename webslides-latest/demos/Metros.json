@@ -1,0 +1,42 @@
+[
+  {
+    "device_count": "20599",
+    "common_evening_metro": "Amsterdam"
+  },
+  {
+    "device_count": "1190",
+    "common_evening_metro": "Rotterdam"
+  },
+  {
+    "device_count": "1076",
+    "common_evening_metro": "Berlin, Stadt"
+  },
+  {
+    "device_count": "930",
+    "common_evening_metro": "'s-Gravenhage"
+  },
+  {
+    "device_count": "864",
+    "common_evening_metro": "Haarlemmermeer"
+  },
+  {
+    "device_count": "841",
+    "common_evening_metro": "Utrecht"
+  },
+  {
+    "device_count": "810",
+    "common_evening_metro": "Barcelona"
+  },
+  {
+    "device_count": "739",
+    "common_evening_metro": "Almere"
+  },
+  {
+    "device_count": "729",
+    "common_evening_metro": "Madrid"
+  },
+  {
+    "device_count": "700",
+    "common_evening_metro": "Zaanstad"
+  }
+]
