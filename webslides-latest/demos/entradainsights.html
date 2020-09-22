@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CLEAN MARKUP = GOOD KARMA.
+      Hi source code lover,
+
+      you're a curious person and a fast learner ;)
+      Let's make something beautiful together. Contribute on Github:
+      https://github.com/webslides/webslides
+
+      Thanks!
+    -->
+
+    <!-- SEO -->
+    <title>Entrada Insights</title>
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+    <!-- CSS Base -->
+    <link rel="stylesheet" type='text/css' media='all' href="../static/css/webslides.css">
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.6/Chart.bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+  </head>
+  <body>
+    <main role="main">
+      <article id="webslides" class="vertical">
+
+        <!-- Quick Guide
+          - Each parent <section> in the <article id="webslides"> element is an individual slide.
+          - Vertical sliding = <article id="webslides" class="vertical">
+          - <div class="wrap"> = container 90% / <div class="wrap size-50"> = 45%;
+        -->
+
+        <section>
+          <canvas id="visitors" width="1800" height="600"></canvas>
+        </section>
+
+        <section>
+          <canvas id="metros" width="1800" height="600"></canvas>
+        </section>
+
+        <section>
+          <canvas id="crime" width="1800" height="600"></canvas>
+        </section>
+
+      </article>
+    </main>
+
+    <!-- Required -->
+    <script src="../static/js/webslides.js"></script>
+
+    <!-- Autoslide 5 seconds. If you don't want autoslide, remove: {autoslide: 5000} -->
+    <script>
+      window.ws = new WebSlides({ autoslide: 5000 });
+    </script>
+
+    <script src="../static/js/chart.js"></script>
+  </body>
+</html>
